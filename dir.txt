@@ -1,8 +1,3 @@
 this is a test
 tommorrow is thurstday 2016.10.26
-<<<<<<< HEAD
 修改一个bug
-
-=======
-this is the diff
->>>>>>> master
