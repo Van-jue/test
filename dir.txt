@@ -1,7 +1,3 @@
 this is a test
 tommorrow is thurstday 2016.10.26
-<<<<<<< HEAD
-this is the diff 
-=======
-this is a test diff	
->>>>>>> e846e2faeb22c85407f2e72325c36382ca377b22
+this is the diff
