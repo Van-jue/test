@@ -1,0 +1,4 @@
+this is a test
+tommorrow is thurstday 2016.10.26
+
+修复了一个bug 
